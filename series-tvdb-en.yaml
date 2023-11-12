@@ -1,0 +1,12 @@
+entries:
+  - title: "One Piece"
+    seasons:
+      - season: 1
+        anilist-id: 21
+  - title: "Case Closed"
+    synonyms:
+      - "Detective Conan"
+      - "Meitantei Conan"
+    seasons:
+      - season: 1
+        anilist-id: 235
