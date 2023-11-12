@@ -1,0 +1,1 @@
+# PlexAniSync-Custom-Mappings
