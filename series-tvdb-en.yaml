@@ -10,3 +10,75 @@ entries:
     seasons:
       - season: 1
         anilist-id: 235
+  - title: "Lycoris Recoil"
+    seasons:
+      - season: 1
+        anilist-id: 143270
+  - title: "Tomo-chan Is a Girl!"
+    synonyms:
+      - "Tomo-chan wa Onnanoko!"
+    seasons:
+      - season: 1
+        anilist-id: 151806
+  - title: "Oshi no Ko"
+    synonyms:
+      - "[Oshi no Ko]"
+    seasons:
+      - season: 1
+        anilist-id: 150672
+  - title: "Hell’s Paradise"
+    synonyms:
+      - "Jigokuraku"
+    seasons:
+      - season: 1
+        anilist-id: 128893
+  - title: "The Dangers in My Heart"
+    synonyms:
+      - "Boku no Kokoro no Yabai Yatsu"
+    seasons:
+      - season: 1
+        anilist-id: 153152
+  - title: "My Dress-Up Darling"
+    synonyms:
+      - "Sono Bisque Doll wa Koi wo Suru"
+    seasons:
+      - season: 1
+        anilist-id: 132405
+  - title: "Love Flops"
+    synonyms:
+      - "Renai Flops"
+    seasons:
+      - season: 1
+        anilist-id: 146676
+  - title: "Chainsaw Man"
+    seasons:
+      - season: 1
+        anilist-id: 127230
+  - title: "Blue Lock"
+    seasons:
+      - season: 1
+        anilist-id: 137822
+  - title: "Beast Tamer"
+    synonyms:
+      - "Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau"
+    seasons:
+      - season: 1
+        anilist-id: 150695
+  - title: "Shinobi no Ittoki"
+    seasons:
+      - season: 1
+        anilist-id: 145604
+  - title: "Elfen Lied"
+    seasons:
+      - season: 1
+        anilist-id: 226
+  - title: "Bleach"
+    seasons:
+      - season: 1
+        anilist-id: 269
+      - season: 1
+        anilist-id: 116674
+        start: 367
+      - season: 1
+        anilist-id: 159322
+        start: 380
