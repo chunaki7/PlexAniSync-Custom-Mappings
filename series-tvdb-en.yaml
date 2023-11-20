@@ -82,3 +82,599 @@ entries:
       - season: 1
         anilist-id: 159322
         start: 380
+  - title: "Shakugan No Shana"
+    seasons:
+      - season: 1
+        anilist-id: 355
+      - season: 2
+        anilist-id: 2787
+      - season: 3
+        anilist-id: 6773
+  - title: "The Melancholy of Haruhi Suzumiya"
+    synonyms:
+      - "Suzumiya Haruhi no Yuuutsu "
+    seasons:
+      - season: 1
+        anilist-id: 4382
+  - title: "A Certain Magical Index"
+    synonyms:
+      - "Toaru Majutsu no Index"
+    seasons:
+      - season: 1
+        anilist-id: 4654
+      - season: 2
+        anilist-id: 8937
+      - season: 3
+        anilist-id: 100185
+  - title: "A Certain Scientific Railgun"
+    synonyms:
+      - "Toaru Kagaku no Railgun"
+    seasons:
+      - season: 1
+        anilist-id: 6213
+      - season: 2
+        anilist-id: 16049
+      - season: 3
+        anilist-id: 104462
+  - title: "Love Lab"
+    seasons:
+      - season: 1
+        anilist-id: 16353
+  - title: "Nagi-Asu: A Lull in the Sea"
+    synonyms:
+      - "Nagi no Asukara"
+    seasons:
+      - season: 1
+        anilist-id: 16067
+  - title: "Flywing Witch"
+    seasons:
+      - season: 1
+        anilist-id: 21284
+  - title: "Orange"
+    seasons:
+      - season: 1
+        anilist-id: 21647
+  - title: "ReLIFE"
+    seasons:
+      - season: 1
+        anilist-id: 21049
+  - title: "Haruchika - Haruta & Chika"
+    synonyms:
+      - "Haruchika"
+      - "Haruchika: Haruta to Chika wa Seishun Suru"
+    seasons:
+      - season: 1
+        anilist-id: 21213
+  - title: "Myriad Colors Phantom World"
+    synonyms:
+      - "Musaigen no Phantom World"
+    seasons:
+      - season: 1
+        anilist-id: 21306
+  - title: "Scum's Wish"
+    synonyms:
+      - "Kuzu no Honkai "
+    seasons:
+      - season: 1
+        anilist-id: 21701
+  - title: "Fuuka"
+    seasons:
+      - season: 1
+        anilist-id: 21887
+  - title: "Interviews with Monster Girls"
+    synonyms:
+      - "Demi-chan wa Kataritai"
+    seasons:
+      - season: 1
+        anilist-id: 97592
+  - title: "Little Witch Academia"
+    seasons:
+      - season: 1
+        anilist-id: 21858
+  - title: "Aho-Girl"
+    seasons:
+      - season: 1
+        anilist-id: 98251
+  - title: "Welcome to the Ballroom"
+    synonyms:
+      - "Ballroom e Youkoso"
+    seasons:
+      - season: 1
+        anilist-id: 98005
+  - title: "Eromanga Sensei"
+    seasons:
+      - season: 1
+        anilist-id: 21685
+  - title: "Sakura Quest"
+    seasons:
+      - season: 1
+        anilist-id: 97903
+  - title: "As the Moon, So Beautiful"
+    synonyms:
+      - "Tsuki ga Kirei"
+      - "Tsukigakirei"
+    seasons:
+      - season: 1
+        anilist-id: 98202
+  - title: "Blend S"
+    synonyms:
+      - "BLEND-S"
+    seasons:
+      - season: 1
+        anilist-id: 97994
+  - title: "A Sister's All You Need"
+    synonyms:
+      - "Imoto sae Ireba Ii."
+    seasons:
+      - season: 1
+        anilist-id: 98596
+  - title: "Just Because!"
+    seasons:
+      - season: 1
+        anilist-id: 98820
+  - title: "11eyes"
+    seasons:
+      - season: 1
+        anilist-id: 6682
+  - title: "Another"
+    seasons:
+      - season: 1
+        anilist-id: 11111
+  - title: "Galilei Donna"
+    seasons:
+      - season: 1
+        anilist-id: 19367
+  - title: "GJ Club"
+    synonyms:
+      - "GJ-bu"
+    seasons:
+      - season: 1
+        anilist-id: 14811
+  - title: "Golden Time"
+    seasons:
+      - season: 1
+        anilist-id: 17895
+  - title: "Kill la Kill"
+    seasons:
+      - season: 1
+        anilist-id: 18679
+  - title: "Recovery of an MMO Junkie"
+    synonyms:
+      - "Net-juu no Susume"
+    seasons:
+      - season: 1
+        anilist-id: 99726
+  - title: "Red Data Girl"
+    synonyms:
+      - "RDG: Red Data Girl"
+    seasons:
+      - season: 1
+        anilist-id: 14921
+  - title: "Tamako Market"
+    seasons:
+      - season: 1
+        anilist-id: 16417
+  - title: "A Town Where You Live"
+    synonyms:
+      - "Kimi no Iru Machi"
+    seasons:
+      - season: 1
+        anilist-id: 17741
+  - title: "Photo Kano"
+    synonyms:
+      - "Photokano"
+    seasons:
+      - season: 1
+        anilist-id: 16397
+  - title: "Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway"
+    synonyms:
+      - "Hige wo Soru. Soshite Joshikousei wo Hirou."
+      - "Higehiro"
+      - I Shaved My Beard Then Picked Up a High School Girl."
+    seasons:
+      - season: 1
+        anilist-id: 114232
+  - title: "The Great Jahy Will Not Be Defeated!"
+    synonyms:
+      - "Jahy-sama wa Kujikenai!"
+    seasons:
+      - season: 1
+        anilist-id: 132456
+  - title: "The Detective Is Already Dead"
+    synonyms:
+      - "Tantei wa mou, Shindeiru."
+    seasons:
+      - season: 1
+        anilist-id: 128712
+  - title: "Horimiya"
+    seasons:
+      - season: 1
+        anilist-id: 124080
+  - title: "WONDER EGG PRIORITY"
+    synonyms:
+      - "Wonder Egg Priority"
+    seasons:
+      - season: 1
+        anilist-id: 124845
+  - title: "Call of the Night"
+    synonyms:
+      - "Yofukashi no Uta"
+    seasons:
+      - season: 1
+        anilist-id: 141391
+  - title: "Engage Kiss"
+    seasons:
+      - season: 1
+        anilist-id: 146625
+  - title: "Horimiya: The Missing Pieces"
+    synonyms:
+      - "Horimiya: piece"
+    seasons:
+      - season: 1
+        anilist-id: 163132
+  - title: "Liar, Liar"
+    synonyms:
+      - "Liar Liar"
+    seasons:
+      - season: 1
+        anilist-id: 131863
+  - title: "TenPuru"
+    synonyms:
+      - "Temple"
+      - "TenPuru -No One Can Live on Loneliness-"
+      - "TenPuru: No One Can Live on Loneliness"
+    seasons:
+      - season: 1
+        anilist-id: 160447
+  - title: "Lucky Star"
+    seasons:
+      - season: 1
+        anilist-id: 1887
+  - title: "Gintama"
+    seasons:
+      - season: 1
+        anilist-id: 918
+      - season: 2
+        anilist-id: 918
+        start: 50
+      - season: 3
+        anilist-id: 918
+        start: 100
+      - season: 4
+        anilist-id: 918
+        start: 151
+      - season: 5
+        anilist-id: 9969
+      - season: 6
+        anilist-id: 15417
+      - season: 7
+        anilist-id: 20996
+      - season: 8
+        anilist-id: 97889
+      - season: 9
+        anilist-id: 99714
+      - season: 10
+        anilist-id: 100784
+      - season: 11
+        anilist-id: 101925
+  - title: "Grand Blue Dreaming"
+    synonyms: 
+      - "Grand Blue"
+    seasons:
+      - season: 1
+        anilist-id: 100922
+  - title: "Asobi Asobase - workshop of fun -"
+    synonyms:
+      - "Asobi Asobase: Workshop of Fun"
+      - "Asobi Asobase"
+    seasons:
+      - season: 1
+        anilist-id: 101001
+  - title: "Mieruko-chan"
+    seasons:
+      - season: 1
+        anilist-id: 131083
+  - title: "Code Geass: Lelouch of the Rebellion"
+    synonyms:
+      - "Code Geass: Hangyaku no Lelouch"
+    seasons:
+      - season: 1
+        anilist-id: 1575
+      - season: 2
+        anilist-id: 2904
+  - title: "Kanon (2006)"
+    seasons:
+      - season: 1
+        anilist-id: 1530
+  - title: "Witchblade"
+    seasons:
+      - season: 1
+        anilist-id: 935
+  - title: "The Familiar of Zero"
+    synonyms:
+      - "Zero no Tsukaima"
+      - "Zero's Familiar"
+    seasons:
+      - season: 1
+        anilist-id: 1195
+      - season: 2
+        anilist-id: 1840
+      - season: 3
+        anilist-id: 3712
+      - season: 4
+        anilist-id: 11319
+  - title: "Clannad"
+    synonyms:
+      - "CLANNAD"
+    seasons:
+      - season: 1
+        anilist-id: 2167
+      - season: 2
+        anilist-id: 4181
+  - title: "Hayate the Combat Butler"
+    synonyms:
+      - "Hayate no Gotoku!"
+    seasons:
+      - season: 1
+        anilist-id: 2026
+      - season: 2
+        anilist-id: 4192
+  - title: "Ga-Rei-Zero"
+    seasons:
+      - season: 1
+        anilist-id: 4725
+  - title: "Summer Time Rendering"
+    synonyms:
+      - "Summer Time Render"
+    seasons:
+      - season: 1
+        anilist-id: 129201
+  - title: "Chihayafuru"
+    seasons:
+      - season: 1
+        anilist-id: 10800
+      - season: 2
+        anilist-id: 14397
+      - season: 3
+        anilist-id: 101215
+  - title: "Guilty Crown"
+    seasons:
+      - season: 1
+        anilist-id: 10793
+  - title: "Haganai: I Don't Have Many Friends"
+    synonyms:
+      - "Boku wa Tomodachi ga Sukunai"
+      - "Haganai"
+      - "Boku ha Tomodachi ga Sukunai"
+      - "I Don't Have Many Friends"
+    seasons:
+      - season: 1
+        anilist-id: 10719
+      - season: 1
+        anilist-id: 14967
+  - title: "Spice and Wolf"
+    synonyms:
+      - "Ookami to Koushinryou"
+    seasons:
+      - season: 1
+        anilist-id: 2966
+      - season: 1
+        anilist-id: 5341
+  - title: "True Tears"
+    seasons:
+      - season: 1
+        anilist-id: 2129
+  - title: "K-ON!"
+    seasons:
+      - season: 1
+        anilist-id: 5680
+      - season: 2
+        anilist-id: 7791
+  - title: "Tokyo Magnitude 8.0"
+    seasons:
+      - season: 1
+        anilist-id: 6211
+  - title: "The Melancholy of Haruhi-chan Suzumiya"
+    synonyms:
+      - "Suzumiya Haruhi-chan no Yuuutsu"
+    seasons:
+      - season: 1
+        anilist-id: 5118
+  - title: "Saki"
+    seasons:
+      - season: 1
+        anilist-id: 5671
+  - title: "Sekirei"
+    synonyms:
+      - "Wagtail"
+    seasons:
+      - season: 1
+        anilist-id: 4063
+      - season: 2
+        anilist-id: 5277
+  - title: "Strike Witches"
+    seasons:
+      - season: 1
+        anilist-id: 3667
+      - season: 2
+        anilist-id: 6381
+  - title: "86"
+    synonyms:
+      - "86: Eighty Six"
+    seasons:
+      - season: 1
+        anilist-id: 116589
+      - season: 1
+        anilist-id: 131586
+        start: 12
+  - title: "Tokyo Revengers"
+    seasons:
+      - season: 1
+        anilist-id: 120120
+      - season: 2
+        anilist-id: 142853
+      - season: 3
+        anilist-id: 163329
+  - title: "Osamake: Romcom Where The Childhood Friend Won't Lose"
+    synonyms:
+      - "Osananajimi ga Zettai ni Makenai Love Come"
+      - "OsaMake"
+    seasons:
+      - season: 1
+        anilist-id: 124675
+  - title: "DON'T TOY WITH ME, MISS NAGATORO"
+    synonyms:
+      - "Ijiranaide, Nagatoro-san"
+    seasons:
+      - season: 1
+        anilist-id: 120697
+      - season: 2
+        anilist-id: 140596
+  - title: "Girlfriend, Girlfriend"
+    synonyms:
+      - "Kanojo mo Kanojo"
+      - "KanoKano"
+      - "She is also my Girlfriend"
+    seasons:
+      - season: 1
+        anilist-id: 126192
+      - season: 2
+        anilist-id: 154692
+  - title: "Baka and Test: Summon the Beasts"
+    synonyms:
+      - "Baka to Test to Shoukanjuu"
+    seasons:
+      - season: 1
+        anilist-id: 6347
+      - season: 2
+        anilist-id: 8516
+  - title: "The Qwaser of Stigmata"
+    synonyms:
+      - "Seikon no Qwaser"
+    seasons:
+      - season: 1
+        anilist-id: 6500
+      - season: 2
+        anilist-id: 10073
+  - title: "Durarara!!"
+    seasons:
+      - season: 1
+        anilist-id: 6746
+      - season: 2
+        anilist-id: 20652
+      - season: 2
+        anilist-id: 20879
+      - season: 2
+        anilist-id: 20880
+  - title: "Ladies Versus Butlers"
+    synonyms:
+      - "Ladies Versus Butlers!"
+    seasons:
+      - season: 1
+        anilist-id: 7148
+  - title: "Oreimo: My Little Sister Can't Be This Cute"
+    synonyms:
+      - "My Little Sister Can't Be This Cute"
+      - "Oreimo"
+      - "Ore no Imouto ga Konna ni Kawaii Wake ga Nai"
+    seasons:
+      - season: 1
+        anilist-id: 8769
+      - season: 2
+        anilist-id: 13659
+  - title: "Yosuga no Sora: In Solitude Where We are Least Alone"
+    synonyms:
+      - "Yosuga no Sora"
+    seasons:
+      - season: 1
+        anilist-id: 8861
+  - title: "Angel Beats!"
+    seasons:
+      - season: 1
+        anilist-id: 6547
+  - title: "Magic Kaito"
+    seasons:
+      - season: 1
+        anilist-id: 8310
+  - title: "Maid-Sama!"
+    synonyms:
+      - "Kaicho wa Maidsama"
+      - "Class President is a Maid!"
+    seasons:
+      - season: 1
+        anilist-id: 7054
+  - title: "High School of the Dead"
+    synonyms:
+      - "Gakuen Mokushiroku: HIGHSCHOOL OF THE DEAD"
+      - "HSOTD"
+      - "HOTD"
+    seasons:
+      - season: 1
+        anilist-id: 8074
+  - title: "Okami-san and Her Seven Companions"
+    synonyms:
+      - "Ookami-san to Shichinin no Nakama-tachi"
+    seasons:
+      - season: 1
+        anilist-id: 7769
+  - title: "Squid Girl"
+    synonyms:
+      - "Shinryaku! Ika Musume"
+      - "The Invader Comes From the Bottom of the Sea!"
+      - "The Squid Girl: The Invader Comes from the Bottom of the Sea!"
+    seasons:
+      - season: 1
+        anilist-id: 8557
+  - title: "Amagami SS"
+    seasons:
+      - season: 1
+        anilist-id: 8676
+      - season: 1
+        anilist-id: 11235
+  - title: "kiss×sis"
+    synonyms:
+      - "kiss × sis"
+    seasons:
+      - season: 1
+        anilist-id: 7593
+  - title: "Seitokai Yakuindomo"
+    seasons:
+      - season: 1
+        anilist-id: 8675
+      - season: 2
+        anilist-id: 20448
+  - title: "MM"
+    seasons:
+      - season: 1
+        anilist-id: 8424
+  - title: "Cat Planet Cuties"
+    synonyms:
+      - "Asobi ni Iku Yo!"
+      - "Bombshells from the Sky"
+    seasons:
+      - season: 1
+        anilist-id: 6166
+  - title: "Yamada's First Time: B Gata H Kei"
+    synonyms:
+      - "B Gata H Kei"
+      - "B Gata H Kei: Yamada's First Time"
+    seasons:
+      - season: 1
+        anilist-id: 7817
+  - title: "Samurai Girls"
+    synonyms:
+      - "Hyakka Ryouran: Samurai Girls"
+    seasons:
+      - season: 1
+        anilist-id: 8277
+      - season: 2
+        anilist-id: 15377
+
+
+
+
+
+
+
+
+
