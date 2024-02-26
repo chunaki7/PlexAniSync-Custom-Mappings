@@ -32,12 +32,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 128893
-  - title: "The Dangers in My Heart"
-    synonyms:
-      - "Boku no Kokoro no Yabai Yatsu"
-    seasons:
-      - season: 1
-        anilist-id: 153152
   - title: "My Dress-Up Darling"
     synonyms:
       - "Sono Bisque Doll wa Koi wo Suru"
@@ -625,6 +619,8 @@ entries:
     seasons:
       - season: 1
         anilist-id: 8557
+      - season: 2
+        anilist-id: 10378
   - title: "Amagami SS"
     seasons:
       - season: 1
@@ -669,6 +665,179 @@ entries:
         anilist-id: 8277
       - season: 2
         anilist-id: 15377
+  - title: "LOVE and LIES"
+    synonyms:
+      - "Koi to Uso"
+    seasons:
+      - season: 1
+        anilist-id: 98320
+  - title: "Gamers!"
+    seasons:
+      - season: 1
+        anilist-id: 97766
+  - title: "My First Girlfriend is a Gal"
+    synonyms:
+      - "Hajimete no Gal"
+    seasons:
+      - season: 1
+        anilist-id: 97863
+  - title: "Miss Kobayashi's Dragon Maid"
+    synonyms:
+      - "Kobayashi-san Chi no Maidragon"
+    seasons:
+      - season: 1
+        anilist-id: 21776
+      - season: 2
+        anilist-id: 107717
+  - title: "Gabriel Dropout"
+    seasons:
+      - season: 1
+        anilist-id: 21878
+  - title: "Remake Our Life!"
+    synonyms:
+      - "Bokutachi no Remake"
+    seasons:
+      - season: 1
+        anilist-id: 114065
+  - title: "Dagashi Kashi"
+    seasons:
+      - season: 1
+        anilist-id: 21365
+      - season: 2
+        anilist-id: 99734
+  - title: "AOKANA: Four Rhythm Across the Blue"
+    synonyms:
+      - "Ao no Kanata no Four Rhythm"
+    seasons:
+      - season: 1
+        anilist-id: 21319
+  - title: "ERASED"
+    synonyms:
+      - "Boku dake ga Inai Machi"
+    seasons:
+      - season: 1
+        anilist-id: 21234
+  - title: "Darling in the Franxx"
+    seasons:
+      - season: 1
+        anilist-id: 99423
+  - title: "Violet Evergarden"
+    seasons:
+      - season: 1
+        anilist-id: 21827
+  - title: "Riddle Story of Devil"
+    synonyms:
+      - "Akuma no Riddle"
+    seasons:
+      - season: 1
+        anilist-id: 19429
+  - title: "Black Bullet"
+    seasons:
+      - season: 1
+        anilist-id: 20457  
+  - title: "Jormungand"
+    seasons:
+      - season: 1
+        anilist-id: 12413  
+      - season: 2
+        anilist-id: 13331  
+        start: 13
+  - title: "Medaka Box"
+    seasons:
+      - season: 1
+        anilist-id: 11761  
+      - season: 2
+        anilist-id: 14527  
+  - title: "Maken-Ki!"
+    synonyms:
+      - "Maken-Ki! Battling Venus"
+    seasons:
+      - season: 1
+        anilist-id: 9936
+      - season: 2
+        anilist-id: 15565
+  - title: "Mayo Chiki!"
+    seasons:
+      - season: 1
+        anilist-id: 10110
+  - title: "Wagnaria!!"
+    synonyms:
+      - "WORKING!!"
+    seasons:
+      - season: 1
+        anilist-id: 6956
+      - season: 2
+        anilist-id: 10521
+      - season: 3
+        anilist-id: 20819
+  - title: "Blue Exorcist"
+    synonyms:
+      - "Ao no Exorcist"
+    seasons:
+      - season: 1
+        anilist-id: 9919
+      - season: 2
+        anilist-id: 21861
+      - season: 3
+        anilist-id: 158931
+  - title: "Dog Days"
+    seasons:
+      - season: 1
+        anilist-id: 10155
+      - season: 2
+        anilist-id: 11783
+      - season: 3
+        anilist-id: 16385
+  - title: "YuruYuri: Happy Go Lily"
+    synonyms:
+      - "Yuru Yuri"
+      - "YuruYuri"
+    seasons:
+      - season: 1
+        anilist-id: 10495
+      - season: 2
+        anilist-id: 12403
+      - season: 3
+        anilist-id: 21088
+  - title: "Ro-Kyu-Bu!"
+    synonyms:
+      - "Ro-Kyu-Bu ~ Fast Break!"
+    seasons:
+      - season: 1
+        anilist-id: 10572
+      - season: 2
+        anilist-id: 16051
+  - title: "IS: Infinite Stratos"
+    synonyms:
+      - "Infinite Stratos"
+    seasons:
+      - season: 1
+        anilist-id: 9041
+      - season: 2
+        anilist-id: 18247
+  - title: "Is This a Zombie?"
+    synonyms:
+      - "Kore wa Zombie desu ka?"
+    seasons:
+      - season: 1
+        anilist-id: 8841
+      - season: 2
+        anilist-id: 10790
+  - title: "Freezing"
+    seasons:
+      - season: 1
+        anilist-id: 9367
+      - season: 2
+        anilist-id: 18001
+
+
+
+
+
+
+
+
+
 
 
 
